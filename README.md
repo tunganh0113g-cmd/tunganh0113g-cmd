@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/226661437?v=4" width="120" height="120" style="border-radius: 50%;" alt="chauw9 Avatar" />
 
-  # Hi there, I'm <span style="color: #6366f1;">Tùng Anh</span> (chauw9) 👋
+  # Hi there, I'm <span style="color: #6366f1;">Đặng Châu</span> (chauw9) 👋
   
   **Java Developer • Minecraft Fabric Modder & Client Architect • Reverse Engineer**
   
